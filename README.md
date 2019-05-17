@@ -9,5 +9,5 @@ Some helpful notes about YAML (which Ain't Markup Language!).
 - Its purpose is to represent data in a human readable way, it is comparable to how JSON is used to represent data, but with a different syntax
 
 
-1. Data Types
-2. Additional Syntax
+1. [Data Types](https://github.com/alysanne/yaml-notes/blob/master/data_types.md)
+2. [Additional Syntax](https://github.com/alysanne/yaml-notes/blob/master/additional_syntax.md)
