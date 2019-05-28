@@ -1,4 +1,4 @@
-# YAML Notes
+# YAML Notes 📑
 
 Some helpful notes about YAML (which Ain't Markup Language!).
 
